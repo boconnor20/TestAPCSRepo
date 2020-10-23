@@ -52,6 +52,7 @@ public class Demo{
     }
     return "{" + result + "}";
   }
+  //B
   public static int[][] create2DArray(int rows, int cols, int maxValue){
     int[][]result= new int[rows][cols];
     for (int i=0; i<rows; i++){
